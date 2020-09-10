@@ -9,7 +9,7 @@
 			{
 				"name": "debian",
 				"tag": "stretch-slim",
-				"digest": "c4052b51588fc32fe0c25a984a34cad5dc5990b9c12744073a9c409a6d0737cf"
+				"digest": "eac708db10f83a29eaf9bc33151ca4e742bf3aab1f2695864fa5a96e3be0af85"
 			}
 		]
 	},
