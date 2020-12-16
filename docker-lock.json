@@ -4,12 +4,12 @@
 			{
 				"name": "elixir",
 				"tag": "1.7.3",
-				"digest": ""
+				"digest": "6b04ca45f1443da24e8066cf4e9602713610d5d1d49b8bc0a3ed718bdbbb8bb6"
 			},
 			{
 				"name": "debian",
 				"tag": "stretch-slim",
-				"digest": ""
+				"digest": "eb436e834ba416c45359aa0709febef17fdea65ab6a8f4db12016aa2fa63be0c"
 			}
 		]
 	}
