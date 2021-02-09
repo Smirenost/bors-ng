@@ -1,16 +1,16 @@
 {
-	"dockerfiles": {
-		"Dockerfile": [
-			{
-				"name": "elixir",
-				"tag": "1.7.3",
-				"digest": "6b04ca45f1443da24e8066cf4e9602713610d5d1d49b8bc0a3ed718bdbbb8bb6"
-			},
-			{
-				"name": "debian",
-				"tag": "stretch-slim",
-				"digest": "839535f161ac382d771e74b8bb8157be00d3d813345a58fd28aa52e1bf242c91"
-			}
-		]
-	}
+  "dockerfiles": {
+    "Dockerfile": [
+      {
+        "name": "elixir",
+        "tag": "1.7.3",
+        "digest": "6b04ca45f1443da24e8066cf4e9602713610d5d1d49b8bc0a3ed718bdbbb8bb6"
+      },
+      {
+        "name": "debian",
+        "tag": "stretch-slim",
+        "digest": "839535f161ac382d771e74b8bb8157be00d3d813345a58fd28aa52e1bf242c91"
+      }
+    ]
+  }
 }
